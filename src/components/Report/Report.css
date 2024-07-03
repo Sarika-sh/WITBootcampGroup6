@@ -40,4 +40,35 @@
   .read-the-docs {
     color: #888;
   }
-  
+ 
+  .report-item-2{
+    background-color: #F629424D;}
+
+    .report-item-1{
+      background-color:#EFDA694D;}
+
+      .report-item-3{
+        background-color:#4CBDEE4D;}
+
+        .report-item-4{
+          background-color: #934CEE4D;;}
+
+          .report-item-5{
+            background-color:#F18B4240;}
+
+            .report-item-6{
+              background-color:#50D5214D;}
+
+        .files{
+          display: block;
+          font-size: 14px;  
+         }
+
+         
+
+
+
+    ;
+
+
+  }
